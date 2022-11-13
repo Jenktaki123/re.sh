@@ -1,6 +1,6 @@
 #!/bin/bash
-# UserRecon v1.0
-# Author: @Garcia
+# v.20
+# Author: @Garcia09
 # Give me the credits if you use any part of this code, read the License.
 
 trap 'printf "\n";partial;exit 1' 2
@@ -9,27 +9,15 @@ banner() {
 
 
 
-printf "                                                   \e[1;92m.-\"\"\"\"-. \e[0m\n"
-printf "                                                  \e[1;92m/        \ \e[0m\n"
-printf "\e[1;77m                     \e[0m\e[1;92m/_        _\ \e[0m\n"
-printf "\e[1;77m  \e[0m\e[1;92me[0m\n"
-printf "\e[1;77m \e[0m\e[1;92m e[0m\n"
-printf "\e[1;77m  \e[0m\e[1;92m
-╔═══╗
-║╔═╗║
-║║─╚╬══╦═╦══╦╦══╗╔══╦══╦══╦═╗╔═╗╔══╦═╗
-║║╔═╣╔╗║╔╣╔═╬╣╔╗║║══╣╔═╣╔╗║╔╗╣╔╗╣║═╣╔╝
-║╚╩═║╔╗║║║╚═╣║╔╗║╠══║╚═╣╔╗║║║║║║║║═╣║
-╚═══╩╝╚╩╝╚══╩╩╝╚╝╚══╩══╩╝╚╩╝╚╩╝╚╩══╩╝
-─╔╗──────╔╗
-╔╝╚╗─────║║
-╚╗╔╬══╦══╣║╔══╗
-─║║║╔╗║╔╗║║║══╣
-─║╚╣╚╝║╚╝║╚╬══║
-─╚═╩══╩══╩═╩══╝e[0m\n"
-printf "\e[1;77m    \e[0m\e[1;92m \e[0m\n"
-printf "                   \e[1;92mv1.0, Author: @Garcia09  e[0m   e[1;92m e[0m\n"
-printf "                                                    e[1;92m'.__.' \e[0m\n"
+printf "                                                    \e[1;92m.-\"\"\"\"-. \e[0m\n"
+printf "                                                         \e[1;92m/        \ \e[0m\n"
+printf "\e[1;77m   Social media scanner                    \e[0m\e[1;92m/_        _\ \e[0m\n"
+printf "\e[1;77m     Osint in short                      \e[0m\e[1;92m// \      / \\ \e[0m\n"
+printf "\e[1;77m      wla kng pake                        \e[0m\e[1;92m|\__\    /__/| \e[0m\n"
+printf "\e[1;77m          ulol                             \e[0m\e[1;92m\    ||    / \e[0m\n"
+printf "\e[1;77m                                            \e[0m\e[1;92m\        / \e[0m\n"
+printf "                   \e[1;92mv1.0, Author: @Garcia  \e[0m   \e[1;92m\  __  / \e[0m\n"
+printf "                                                           \e[1;92m'.__.' \e[0m\n"
                                                 
 
 
