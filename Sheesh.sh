@@ -9,7 +9,7 @@ banner() {
 
 
 
-printf "                                                    \e[1;92m.                e[0m\n"
+                                                                   
 printf "                                                         \e[1;92m            e[0m\n"
 printf "\e[1;77m   Social media scanner                    \e[0m\e[1;92m             e[0m\n"
 printf "\e[1;77m     Osint in short                      \e[0m\e[1;92m               e[0m\n"
